@@ -1,0 +1,2 @@
+# LogicaDePredicadosNumImpar
+ Lógica de Predicados
